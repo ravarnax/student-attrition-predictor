@@ -50,3 +50,5 @@ Clone the repository.
 Ensure you have the following packages installed: pandas, numpy, matplotlib, seaborn, scikit-learn.
 
 Open the student_attrition_predictor.ipynb Jupyter Notebook and run all cells.
+
+link to "student_performance.csv" : https://www.kaggle.com/datasets/nabeelqureshitiii/student-performance-dataset
